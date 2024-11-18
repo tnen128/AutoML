@@ -24,4 +24,4 @@ These notebooks include:
 
 ## Models and Tokenizers
 
-The models are included in this link [[Models](https://drive.google.com/drive/folders/1zGTdDyM4r7b5VIINH_dKVpS0Vp1e4gT_?dmr=1&ec=wgc-drive-globalnav-goto)]
+The models are included in this link [[Models](https://drive.google.com/drive/folders/1zGTdDyM4r7b5VIINH_dKVpS0Vp1e4gT_?usp=sharing)]
